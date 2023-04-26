@@ -1,4 +1,7 @@
 <p> David Hilbert is my adviser^6. So I am luckily an academic descendent of both Euler and Gauss and a part of this giant academic family (picture credit to the Mathematics Genealogy Project). 
 My profile in the project can be found <a href="https://www.mathgenealogy.org/id.php?id=264419" target="_blank">here</a>.</p>
 
-<img src="genealogy.jpg" alt="genealogy" width="600">
+<img src="genealogy.jpg" alt="genealogy" width="600">\
+
+
+<p> <a href="https://www.mathgenealogy.org/id.php?id=264419" target="_blank">Math genealogy</a> (Thanks Al again!)</p>
